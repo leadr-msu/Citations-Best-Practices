@@ -1,5 +1,7 @@
 # Citations-Best-Practices
 
+Created by Alice Lynn McMichael
+
 There is a common problem with linking out to academic articles within WordPress pages and other websites, where there is not universal access to those sources. Why there is not an easy answer, below are some ideas for best practices and things to try to solve this problem.
 
 There are two tols that may be useful. First is a new Chrome browser plug-in called "Open Access Buttion" that searches for open access (OA) versions of articles ([plugin homepage](https://chrome.google.com/webstore/detail/open-access-button/gknkbkaapnhpmkcgkmdekdffgcddoiel?hl=en)). There is another tool called 'OA DOI' that looks for open access versions of articles that have a DOI (digital object identifier).
