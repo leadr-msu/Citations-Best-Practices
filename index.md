@@ -1,6 +1,6 @@
 # Citations-Best-Practices
 
-Created by Alice Lynn McMichael
+Created by A.L. McMichael
 
 There is a common problem that when linking out to academic articles from WordPress pages or other websites, there is not universal access to those sources because they are behind a paywall. While there is not an easy answer, below are some suggestiohs for best practices and ideas to work around this problem.
 
