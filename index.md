@@ -11,4 +11,4 @@ It is possible to look for versions of articles and/or books in institutional re
 As a last resort, you may want to consider doing an annotated bibliography or footnotes and/or linking to abstracts online (see [Active Citations](https://github.com/leadr-msu/active-citations)), in addition to the citation. 
 
 -----
-### Return to [LEADR's Resources list](http://leadr-msu.github.io/resources/)
+### Return to [LEADR's Resources list](http://leadr-msu.github.io/)
